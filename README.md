@@ -1,5 +1,7 @@
 # 🧠 Fintech Leads Middle East — Automated Newsletter Workflow
 
+![Workflow Diagram](workflow.png)
+
 ## 📋 Overview
 This project automates the creation of **FinTech newsletters and account engagement recommendations** for Backbase Sales Executives.  
 It ensures sales teams stay up to date with Middle East FinTech, banking, and digital banking news — and provides **AI-generated recommendations** on how to engage with key accounts based on relevant articles.
